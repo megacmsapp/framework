@@ -1,5 +1,6 @@
-# framework
-MegaCMS.app Framework
+# MegaCMS.app Framework
+
+The Revolution in Content Management Systems is launching soon.
 
 
 ## The code will be available as soon as the documentation is ready.
